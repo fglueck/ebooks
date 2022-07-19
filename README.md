@@ -10,10 +10,18 @@
   - [Buch 7 - Quick Start-Guide für SQL Server 2017 auf Linux]
 
 - [Introducing Microsoft SQL Server 2012](https://download.microsoft.com/download/F/F/6/FF62CAE0-CE38-4228-9025-FBF729312698/Microsoft_Press_eBook_Introducing_Microsoft_SQL_Server_2012_PDF.pdf)
+- [Introducing Microsoft SQL Server 2012](https://download.microsoft.com/download/C/F/1/CF1B4F65-2F24-48E8-8111-5D46FC89BB56/Microsoft_Press_eBook_Intro_SQL%20Server_2016_Preview_Ed_PDF.pdf)
 - [Introducing Microsoft SQL Server 2019](https://www.windowsmode.com/download-introducing-microsoft-sql-server-2019-ebook/)
-## TSQL
+### TSQL
 - [technet](https://social.technet.microsoft.com/wiki/contents/articles/29916.sql-and-transact-sql-free-e-books.aspx)
 
-## redgate
+### redgate
 - [Index](https://www.red-gate.com/hub/books/)
   - [SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans)
+
+## OneNote
+- [Microsoft](https://support.microsoft.com/en-us/office/download-free-ebooks-for-microsoft-onenote-4e08cf8b-dc37-4229-bdef-1f580220b6f5)
+
+
+## Link-Listen
+* [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
