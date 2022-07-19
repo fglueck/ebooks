@@ -8,6 +8,8 @@
   - [Buch 5 - Inside Out: SQL Server 2017 Administration]
   - [Buch 6 - Die sechs wichtigsten Gründe für den Umstieg]
   - [Buch 7 - Quick Start-Guide für SQL Server 2017 auf Linux]
+
+- [Introducing Microsoft SQL Server 2012](https://download.microsoft.com/download/F/F/6/FF62CAE0-CE38-4228-9025-FBF729312698/Microsoft_Press_eBook_Introducing_Microsoft_SQL_Server_2012_PDF.pdf)
 ## TSQL
 - [technet](https://social.technet.microsoft.com/wiki/contents/articles/29916.sql-and-transact-sql-free-e-books.aspx)
 
