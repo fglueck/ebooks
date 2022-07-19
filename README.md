@@ -12,5 +12,5 @@
 - [technet](https://social.technet.microsoft.com/wiki/contents/articles/29916.sql-and-transact-sql-free-e-books.aspx)
 
 ## redgate
-- [https://www.red-gate.com/hub/books/]
+- [Index](https://www.red-gate.com/hub/books/)
  - [SQL Server Execution Plans](https://www.red-gate.com/products/dba/sql-monitor/entrypage/execution-plans)
